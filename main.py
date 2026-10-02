@@ -3,7 +3,7 @@ import requests
 import yt_dlp
 
 # COLE O LINK DO SEU CANAL AQUI ABAIXO
-CANAL_URL = "https://www.youtube.com/@SEU_CANAL/videos"
+CANAL_URL = "https://m.youtube.com/@joaogames2378/videos"
 
 headers = {
     "User-Agent": (
